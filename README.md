@@ -2,3 +2,4 @@
 Repository for testing my Git/GitHub setup
 A line I wrote on my local computer  
 A line I wrote on RStudio mac
+A line I wrote on RStudio VM
